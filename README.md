@@ -6,7 +6,7 @@
   1. IntelliJ에 SpringInitializr 프로젝트 생성
   2. MariaDB Table 생성
   3. 게시글 작성 폼 생성
-  4, 글 작성 처리
+  4. 글 작성 처리
   5. 게시글 리스트
   6. 게시글 상세 페이지
   7. 게시글 삭제
